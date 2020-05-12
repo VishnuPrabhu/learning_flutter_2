@@ -1,0 +1,14 @@
+https://dart.dev/guides/packages
+https://dart.dev/guides/libraries/create-library-packages
+https://dart.dev/guides/libraries/library-tour#dartio
+https://dart.dev/tutorials/language/streams
+https://dart.dev/mobile
+https://dart.dev/platforms
+https://dart.dev/tools/dart2native
+https://dart.dev/articles/libraries/creating-streams
+https://medium.com/dartlang/dart-asynchronous-programming-isolates-and-event-loops-bffc3e296a6a
+https://dart.dev/guides/language/language-tour
+https://medium.com/dartlang/dart-asynchronous-programming-isolates-and-event-loops-bffc3e296a6a
+https://api.dart.dev/stable/2.8.2/dart-isolate/Isolate/spawn.html
+https://flutter.dev/docs/cookbook/networking/background-parsing
+https://github.com/flutter/samples/tree/master/isolate_example
