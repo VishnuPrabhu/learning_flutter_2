@@ -48,7 +48,7 @@ class NewsDbProvider {
     return null;
   }
 
-  Future<int> addItem(ItemModel item) async {
-    return await db.insert("Items", item.toMap());
+  Future<int> addItem(ItemModel item) {
+    return db.insert("Items", item.toMap());
   }
 }
